@@ -2,10 +2,9 @@
 
 > [instagram](https://github.com/thanhluanuit/instuigram)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Setup The Evn on Macos:
 
-Things you may want to cover:
+
 
 * Ruby version
 
